@@ -21,6 +21,6 @@ The guitar uses thirteen audio samples, sourced from www.compositiontoday.com/so
 In order to play the guitar, a user must select a set of notes they wish to play and then click “strum”. This then plays back the notes that they have highlighted.
 Audacity was used to go through and shorten the beginning of guitar samples to ensure that they play at the same time when strummed.
 
-The backing track player simply plays song samples which I think sound good. The user operates it by clicking on the circle corresponding to their desired track
+The backing track player simply plays song samples which I think sound good. The user operates it by clicking on the circle corresponding to their desired track.
 
 The recorder records microphone input, stores it in the data folder as “recording.wav” then plays it back to the user.
