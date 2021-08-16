@@ -1,4 +1,4 @@
-# Music maker using Processing's Minim library
+# Music Maker using Processing's Minim library
 The aim of this project was to create an audio workstation complete with keyboard synthesiser, drum machine, guitar, backing tracks
 and the ability to record and play back a recording of your music.
 
