@@ -2,6 +2,8 @@
 The aim of this project was to create an audio workstation complete with keyboard synthesiser, drum machine, guitar, backing tracks,
 and the ability to record and play back microphone input.
 
+I plan on implementing more instruments in future.
+
 To open MusicMaker.pde, you will need to download Processing:
 https://processing.org/download
 
